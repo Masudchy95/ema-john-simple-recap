@@ -10,7 +10,7 @@ const Header = () => {
                <a href="/review">Order Review</a>
                <a href="/inventory">Manage Inventory</a>
             </nav>
-            <input type="text" placeholder="Type here to search"/>
+            <input type="text" placeholder="Type here to search" />
         </div>
     );
 };
